@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+funpymodeling
+pandas-profiling==2.7.1
+jupyter
